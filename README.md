@@ -85,9 +85,20 @@ Our research demonstrates AGIcam's effectiveness for:
 
 ### Citation
 If you use AGIcam in your research, please cite:
+
+**Paper** (coming soon):
 ```
 Will be updated soon!
 ```
+
+**Dataset**:
+```
+Sangjan, W., Pukrongta, N., Buchanan, T., Carter, A., Pumphrey, M., & Sankaran, S. (2025). 
+AGIcam Dataset: In-Field IoT Sensor Data for Wheat Phenotyping and Yield Prediction (Version v1) 
+[Data set]. Zenodo. https://doi.org/10.5281/zenodo.17970104
+```
+
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.17970104.svg)](https://doi.org/10.5281/zenodo.17970104)
 
 ## Repository Structure
 
