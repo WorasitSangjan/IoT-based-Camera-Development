@@ -94,7 +94,7 @@ Will be updated soon!
 **Dataset**:
 ```
 Sangjan, W., Pukrongta, N., Buchanan, T., Carter, A., Pumphrey, M., & Sankaran, S. (2025). 
-AGIcam Dataset: In-Field IoT Sensor Data for Wheat Phenotyping and Yield Prediction (Version v1) 
+AGIcam Dataset: In-Field IoT Sensor Data for Wheat Phenotyping and Yield Prediction 
 [Data set]. Zenodo. https://doi.org/10.5281/zenodo.17970104
 ```
 
