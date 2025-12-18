@@ -7,9 +7,27 @@
 ![Agriculture](https://img.shields.io/badge/Agriculture-Precision%20Agriculture-green.svg)
 ![Research](https://img.shields.io/badge/Research-WSU--Phenomics-navy.svg)
 
-
-
 > **A low-cost, solar-powered IoT platform for high-frequency crop monitoring and yield prediction in wheat breeding trials**
+
+## Repository Structure
+
+```
+IoT-based-Camera-Development/
+├── 1_Camera_Development/           # Hardware design & 3D models
+│   ├── 1_Enclosure_3DModel/        # STL files for 3D printing
+│   └── 2_Program_on_RasPi/         # Raspberry Pi software
+├── 2_Backend_System/               # Node-RED data pipeline
+│   ├── flows.json                  # Complete data flow
+│   └── data_transform.js           # Data transformation
+├── 3_AGIcam_Dashboard/             # Web interface
+│   ├── index.html                  # Homepage
+│   ├── dashboardlists.html         # Sensor dashboards
+│   └── planthealth.html            # Image galleries
+├── 4_Data_Analysis/                # ML models
+│   ├── LSTM_TimeSerie_Yield.../    # LSTM implementation
+│   └── RandomForest_TimeSerie_.../ # Random Forest models
+└── requirements.txt                # Python dependencies
+```
 
 ## Overview
 
@@ -99,26 +117,6 @@ AGIcam Dataset: In-Field IoT Sensor Data for Wheat Phenotyping and Yield Predict
 ```
 
 [![DOI](https://img.shields.io/badge/Zenodo-17970104-blue.svg)](https://doi.org/10.5281/zenodo.17970104)
-
-## Repository Structure
-
-```
-IoT-based-Camera-Development/
-├── 1_Camera_Development/           # Hardware design & 3D models
-│   ├── 1_Enclosure_3DModel/        # STL files for 3D printing
-│   └── 2_Program_on_RasPi/         # Raspberry Pi software
-├── 2_Backend_System/               # Node-RED data pipeline
-│   ├── flows.json                  # Complete data flow
-│   └── data_transform.js           # Data transformation
-├── 3_AGIcam_Dashboard/             # Web interface
-│   ├── index.html                  # Homepage
-│   ├── dashboardlists.html         # Sensor dashboards
-│   └── planthealth.html            # Image galleries
-├── 4_Data_Analysis/                # ML models
-│   ├── LSTM_TimeSerie_Yield.../    # LSTM implementation
-│   └── RandomForest_TimeSerie_.../ # Random Forest models
-└── requirements.txt                # Python dependencies
-```
 
 ## Acknowledgments
 
