@@ -5,13 +5,6 @@
 
 This folder contains the data analysis components for AGIcam's yield prediction pipeline, implementing both Random Forest and Long Short-Term Memory (LSTM) models for wheat yield prediction using time-series vegetation index data.
 
-## Overview
-
-The data analysis pipeline processes time-series vegetation index (VI) data collected by AGIcam sensors to predict grain yield in wheat breeding trials. Two machine learning approaches are implemented:
-
-1. **Random Forest Regression**: Uses Area Under Curve (AUC) features from the VI time series
-2. **Long Short-Term Memory (LSTM)**: Processes sequential VI data to capture temporal dependencies
-
 ## Folder Structure
 
 ```
@@ -20,6 +13,13 @@ The data analysis pipeline processes time-series vegetation index (VI) data coll
 ├── RandomForest_TimeSerie_Yield.../    # Random Forest model implementation
 └── README.md                           # This file
 ```
+
+## Overview
+
+The data analysis pipeline processes time-series vegetation index (VI) data collected by AGIcam sensors to predict grain yield in wheat breeding trials. Two machine learning approaches are implemented:
+
+1. **Random Forest Regression**: Uses Area Under Curve (AUC) features from the VI time series
+2. **Long Short-Term Memory (LSTM)**: Processes sequential VI data to capture temporal dependencies
 
 ## Data Requirements
 
