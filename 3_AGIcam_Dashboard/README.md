@@ -2,6 +2,18 @@
 
 > Web-based interface for monitoring AGIcam IoT camera sensors in agricultural field trials.
 
+## Folder Structure
+
+```
+3_AGIcam_Dashboard/
+├── index.html              # Homepage
+├── dashboardlists.html     # Main dashboard  
+├── planthealth.html        # Image galleries
+└── images/
+    ├── agicam.jpg         # Hero image
+    └── agicam8ndvi.png    # NDVI thumbnail
+```
+
 ## Overview
 
 The AGIcam Dashboard provides real-time monitoring and historical data access for 18 camera sensors deployed in wheat breeding trials. Built with HTML5 and Bootstrap 5, it offers:
@@ -39,18 +51,6 @@ Grid layout displaying all 18 cameras with:
 Table format providing:
 - Complete device inventory with IDs and locations
 - Direct links to historical image galleries
-
-## File Structure
-
-```
-4_AGIcam_Dashboard/
-├── index.html              # Homepage
-├── dashboardlists.html     # Main dashboard  
-├── planthealth.html        # Image galleries
-└── images/
-    ├── agicam.jpg         # Hero image
-    └── agicam8ndvi.png    # NDVI thumbnail
-```
 
 ## Quick Start
 
