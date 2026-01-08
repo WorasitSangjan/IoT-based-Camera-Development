@@ -10,8 +10,9 @@
 ├── dashboardlists.html     # Main dashboard  
 ├── planthealth.html        # Image galleries
 └── images/
-    ├── agicam.jpg         # Hero image
-    └── agicam8ndvi.png    # NDVI thumbnail
+    ├── homepage-screenshort.png       # Homepage
+    ├── dashboard-screenshort.png      # NDVI thumbnail
+    └── planthealth-screenshort.png    # Plant Images
 ```
 
 ## Overview
@@ -32,9 +33,9 @@ The AGIcam Dashboard provides real-time monitoring and historical data access fo
 ![AGIcam Dashboard](https://github.com/WorasitSangjan/IoT-based-Camera-Development/blob/main/3_AGIcam_Dashboard/images/dashboard-screenshort.png)
 *Figure 2: Grid view of all 18 camera sensors with embedded Grafana dashboards for live NDVI monitoring*
 
-### Plant Health - Historical Data Access
+### Plant Health - Plant Image Gallery
 ![Plant Health Page](https://github.com/WorasitSangjan/IoT-based-Camera-Development/blob/main/3_AGIcam_Dashboard/images/planthealth-screenshort.png)
-*Figure 3: Table interface providing access to historical NDVI image galleries for each camera sensor*
+*Figure 3: Table interface providing access to plant image galleries for each camera sensor*
 
 ## Pages
 
