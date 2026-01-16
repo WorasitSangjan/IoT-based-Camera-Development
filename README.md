@@ -104,16 +104,20 @@ Our research demonstrates AGIcam's effectiveness for:
 ### Citation
 If you use AGIcam in your research, please cite:
 
-**Paper** (coming soon):
+**Paper**:
 ```
-Will be updated soon!
+Sangjan, W., Pukrongta, N., Buchanan, T., Carter, A. H., Pumphrey, M. O., & Sankaran, S. (2026).
+AGIcam: An open-source IoT-based camera system for automated in-field phenotyping and yield prediction.
+bioRxiv, 2026.01.13.699185. https://doi.org/10.64898/2026.01.13.699185
 ```
+
+[![DOI](https://img.shields.io/badge/bioRxiv-2026.01.13.699185-b31b1b.svg)](https://doi.org/10.64898/2026.01.13.699185)
 
 **Dataset**:
 ```
-Sangjan, W., Pukrongta, N., Buchanan, T., Carter, A., Pumphrey, M., & Sankaran, S. (2025). 
-AGIcam Dataset: In-Field IoT Sensor Data for Wheat Phenotyping and Yield Prediction 
-[Data set]. Zenodo. https://doi.org/10.5281/zenodo.17970104
+Sangjan, W., Pukrongta, N., Buchanan, T., Carter, A. H., Pumphrey, M. O., & Sankaran, S. (2025). 
+AGIcam Dataset: In-Field IoT Sensor Data for Wheat Phenotyping and Yield Prediction [Data set].
+Zenodo. https://doi.org/10.5281/zenodo.17970104
 ```
 
 [![DOI](https://img.shields.io/badge/Zenodo-17970104-blue.svg)](https://doi.org/10.5281/zenodo.17970104)
