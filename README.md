@@ -106,9 +106,9 @@ If you use AGIcam in your research, please cite:
 
 **Paper**:
 ```
-Sangjan, W., Pukrongta, N., Buchanan, T., Carter, A. H., Pumphrey, M. O., & Sankaran, S. (2026).
-AGIcam: An open-source IoT-based camera system for automated in-field phenotyping and yield prediction.
-bioRxiv, 2026.01.13.699185. https://doi.org/10.64898/2026.01.13.699185
+Sangjan, W., Pukrongta, N., Buchanan, T., Carter, A. H., Pumphrey, M. O., & Sankaran, S. (2026). 
+AGIcam: An open-source Internet of Things–based camera system for automated in-field phenotyping and yield prediction. 
+The Plant Phenome Journal, 9(1), e70088. https://doi.org/10.1002/ppj2.70088
 ```
 
 [![DOI](https://img.shields.io/badge/bioRxiv-2026.01.13.699185-b31b1b.svg)](https://doi.org/10.64898/2026.01.13.699185)
