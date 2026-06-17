@@ -127,7 +127,7 @@ Zenodo. https://doi.org/10.5281/zenodo.17970104
 This research was funded by:
 - USDA-NIFA Competitive Project (Accession #1028108)
 - Washington State University Hatch Project (Accession #1014919)
-- WSU College of AHNRS Emerging Research Issues Grant (ERI-20-04)
+- WSU College of CAHNRS Emerging Research Issues Grant (ERI-20-04)
 
 ## Contact
 
