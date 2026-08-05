@@ -111,7 +111,7 @@ AGIcam: An open-source Internet of Things–based camera system for automated in
 The Plant Phenome Journal, 9(1), e70088. https://doi.org/10.1002/ppj2.70088
 ```
 
-[![DOI](https://img.shields.io/badge/ThePlantPhenomeJournal-70088-purple.svg)](https://doi.org/10.1002/ppj2.70088)
+[![DOI](https://img.shields.io/badge/ThePlantPhenomeJournal-Published-purple.svg)](https://doi.org/10.1002/ppj2.70088)
 
 **Dataset**:
 ```
@@ -120,7 +120,7 @@ AGIcam Dataset: In-Field IoT Sensor Data for Wheat Phenotyping and Yield Predict
 Zenodo. https://doi.org/10.5281/zenodo.17970104
 ```
 
-[![DOI](https://img.shields.io/badge/Zenodo-17970104-blue.svg)](https://doi.org/10.5281/zenodo.17970104)
+[![DOI](https://img.shields.io/badge/Zenodo-Published-blue.svg)](https://doi.org/10.5281/zenodo.17970104)
 
 ## Acknowledgments
 
