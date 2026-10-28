@@ -132,6 +132,7 @@ This research was funded by:
 ## Contact
 
 - **Lead Researcher**: Worasit Sangjan - [worasit.sangjan@wsu.edu](mailto:worasit.sangjan@wsu.edu)
+- **Website**: [worasitsangjan.github.io](https://worasitsangjan.github.io/)
 - **Principal Investigator**: Dr. Sindhuja Sankaran - [s.sankaran@wsu.edu](mailto:s.sankaran@wsu.edu)
 - **Institution**: Washington State University, Phenomics Lab
 
